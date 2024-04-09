@@ -41,3 +41,49 @@ Exemplos:
 Valor Homem/hora = Preço total + % lucro
 
 Preço final cliente = Valor Homem/hora * quantidade de horas
+
+### Custo especial da venda (CEV)
+
+- Impostos, taxas, comissões, lucro, etc.
+
+(Material + serviços + terceiros) / 1 - (CEV / 100)
+
+
+## Precificação Produto
+
+PF (Custo x BDI) + Custo
+
+Custo = valor a ser pago para o fornecedor
+BDI = impostos + % lucro (Benefícios e Despesas Indiretas)
+
+## Lidando com as Objeções do Cliente
+
+- O serviço é caro!
+- O concorrente é mais barato!
+- Meu orçamento está apertado!
+
+## Deixe uma margem de negociação
+
+## O Equilíbrio Entre Preço e Rentabilidade
+
+## Riscos de uma precificação de serviços errada
+
+## ROI - Return on Investment
+
+### Categorias
+
+- Que reduzem custos;
+- Os que investem em segurança;
+- Aqueles que criam rendimentos;
+- Simplificam os processos.
+
+### Cálculo
+
+% ROI = ((Receita - Custo) / Custo) * 100
+
+### Outros indicadores
+
+- Payback Period (ou Payback)
+- IRR (Internal Rate of Return)
+- NPV (Not Present Value)
+- Non-financial ROI
